@@ -1,0 +1,6 @@
+	0	1	2	3	4
+0	Model	Concordant	Acceptable	Unacceptable	Percentage
+1	chr_Epsilon-Support Vector RegressionTraining_fitted_values.csv	7.0	1.0	4.0	0.6666666666666666
+2	chr_Random ForestTraining_fitted_values.csv	11.0	0.0	1.0	0.9166666666666666
+3	chr_Gradient Boosting RegressionTraining_fitted_values.csv	12.0	0.0	0.0	1.0
+4	chr_AdaBoostTraining_fitted_values.csv	11.0	0.0	1.0	0.9166666666666666
